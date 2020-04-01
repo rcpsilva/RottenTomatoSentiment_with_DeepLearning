@@ -1,4 +1,4 @@
-# RottenTomatoSentiment_with_DeepLearning
+# Rotten Tomatoes Sentiment Analysis with DeepLearning
 
 This is my current attempt to study deep learning in PyTorch.
 
