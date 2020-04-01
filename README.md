@@ -2,7 +2,7 @@
 
 This is my current attempt to study deep learning in PyTorch.
 
-In order to do this I have chosen the Rotten Tomato sentiment analysis problem. The dataset used here is avaiable at http://nlp.stanford.edu/~socherr/stanfordSentimentTreebank.zip .
+In order to do this I have chosen the Rotten Tomatoes sentiment analysis problem. The dataset used here is avaiable at http://nlp.stanford.edu/~socherr/stanfordSentimentTreebank.zip .
 
 Most of the code in the notebooks was taken from https://github.com/falloutdurham/beginners-pytorch-deep-learning/. Here, it was simply tweaked to solve the the aforementioned problem. 
 
